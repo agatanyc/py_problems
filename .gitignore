@@ -12,3 +12,6 @@ __pycache__/
 # Vim droppings
 .swp
 .*.swp
+
+# Apple droppings
+.DS_Store
