@@ -12,5 +12,7 @@ def print_rect(x, i):
 
 xs = ['agata', 'jo', 'tara']
 i = max_len(xs)
+print((i + 4) * '*')
 for x in xs:
     print(print_rect(x, i))
+print((i + 4) * '*')
